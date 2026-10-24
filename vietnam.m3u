@@ -1,0 +1,170 @@
+#EXTM3U url-tvg="http://cvtv.xyz/xmltv,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml,https://iptvx.one/epg/epg.xml.gz,https://iptvx.one/epg/epg_lite.xml.gz,http://epgtut.tk/epg.xml.gz,http://iptvx.one/EPG,http://epg.it999.ru/epg.xml.gz,https://iptv-org.github.io/epg/guides/en/epg.i-cable.com.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.xml,https://iptv-org.github.io/epg/guides/pt/rtp.pt.xml,https://iptv-org.github.io/epg/guides/id/mncvision.id.xml,https://iptv-org.github.io/epg/guides/id/indihometv.com.xml,https://iptv-org.github.io/epg/guides/ko/wavve.com.xml,https://iptv-org.github.io/epg/guides/en/mncvision.id.xml,https://iptv-org.github.io/epg/guides/fr/m.tv.sms.cz.xml,https://iptv-org.github.io/epg/guides/cs/m.tv.sms.cz.xml,https://iptv-org.github.io/epg/guides/es/directv.com.ar.xml,https://iptv-org.github.io/epg/guides/en/dishtv.in.xml,https://iptv-org.github.io/epg/guides/en/tv.blue.ch.xml,https://iptv-org.github.io/epg/guides/en/mujtvprogram.cz.xml,https://iptv-org.github.io/epg/guides/en/starhubtvplus.com.xml,https://iptv-org.github.io/epg/guides/en/unifi.com.my.xml,https://iptv-org.github.io/epg/guides/en/tapdmv.com.xml,https://iptv-org.github.io/epg/guides/en/nowplayer.now.com.xml,https://iptv-org.github.io/epg/guides/en/singtel.com.xml,https://iptv-org.github.io/epg/guides/zh/tv.cctv.com.xml,https://iptv-org.github.io/epg/guides/hy/tv.mail.ru.xml"
+
+#EXTINF:-1 tvg-id="vtv1t2" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/03/VTV1_HD_logo_ch%C3%ADnh_T%E1%BA%BFt_2015_%2815-16.02.2015%29.png/revision/latest?cb=20241018234001&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV1 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://iptv.nhadai.org/stream/vtv1-hd
+#EXTINF:-1 tvg-id="vtv2t2" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/52/VTV2_HD_Tet_2016.png/revision/latest?cb=20221211120014&path-prefix=vi", VTV2 HD
+http://iptv.nhadai.org/stream/vtv2-hd
+
+#EXTINF:-1 tvg-id="vtv3t2" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/61/VTV3_logo_Tet_2013.png/revision/latest?cb=20250119121652&path-prefix=vi", VTV3 HD
+http://iptv.nhadai.org/stream/vtv3-hd
+
+#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ca/VTV4_HD_logo_Tet_2016.png/revision/latest?cb=20221205094511&path-prefix=vi", VTV4 HD
+http://iptv.nhadai.org/stream/vtv4-hd
+
+#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b7/VTV5_HD_logo_Tet_2016.png/revision/latest?cb=20221211120119&path-prefix=vi", VTV5 HD
+http://iptv.nhadai.org/stream/vtv5-hd
+#EXTINF:-1 tvg-id="ptv" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fd/HBTV_logo_Tet_2015.png/revision/latest?cb=20220804110707&path-prefix=vi",HBTV HD
+http://iptv.nhadai.org/stream/phu-tho
+
+#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f8/VTV7_HD_Tet_2016.png/revision/latest?cb=20241215070808&path-prefix=vi", VTV7 HD
+http://iptv.nhadai.org/stream/vtv7-hd
+#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo=" https://static.wikia.nocookie.net/logos/images/6/65/VTV8_logo_Tet_2016_%2801.02.2016%29.png/revision/latest?cb=20241002103115&path-prefix=vi", VTV8 HD
+http://iptv.nhadai.org/stream/vtv8-hd
+
+#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4b/VTV9_logo_ch%C3%ADnh_T%E1%BA%BFt_2016_b%E1%BA%A3n_2_%2801.02.2016%29.png/revision/latest?cb=20241002103145&path-prefix=vi", VTV9 HD
+http://iptv.nhadai.org/stream/vtv9-hd
+
+#EXTINF:-1 tvg-id="vtvctt2" group-title="VTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bb/VTV_C%E1%BA%A7n_Th%C6%A1_logo_Tet_2014.png/revision/latest?cb=20240929133738&path-prefix=vi", VTV Cần Thơ
+http://iptv.nhadai.org/stream/vtv-can-tho
+#EXTINF:-1 group-title="HTV" tvg-id="htv7hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/dd/HTV7_logo_Tet_2012%2C_2013.png/revision/latest?cb=20231201025807&path-prefix=vi" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=128&time=${start}&offset=${duration}",HTV7
+http://iptv.nhadai.org/stream/htv7-hd
+#EXTINF:-1 group-title="HTV" tvg-id="htv9hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/97/HTV9_logo_Tet_2012%2C_2013.png/revision/latest?cb=20231201025805&path-prefix=vi" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=190&time=${start}&offset=${duration}",HTV9
+http://iptv.nhadai.org/stream/htv9-hd
+
+#EXTINF:-1 group-title="HTV" tvg-id="dulich" tvg-logo="http://iptv.nhadai.org/img/htvc-du-lich.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=190&time=${start}&offset=${duration}", Du Lịch & Cuộc Sống
+http://iptv.nhadai.org/stream/htvc-du-lich
+
+#EXTINF:-1 group-title="HTV" tvg-id="canhac" tvg-logo="http://iptv.nhadai.org/img/htvc-ca-nhac.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=190&time=${start}&offset=${duration}", Ca Nhạc
+http://iptv.nhadai.org/stream/htvc-ca-nhac
+#EXTINF:-1 group-title="HTV" tvg-id="phunu" tvg-logo="http://iptv.nhadai.org/img/htvc-phu-nu.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=190&time=${start}&offset=${duration}", Phụ Nữ
+http://iptv.nhadai.org/stream/htvc-phu-nu
+#EXTINF:-1 group-title="HTV" tvg-id="phim" tvg-logo="http://iptv.nhadai.org/img/htvc-phim.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=190&time=${start}&offset=${duration}", Phim
+http://iptv.nhadai.org/stream/htvc-phim
+
+
+#EXTINF:-1 group-title="HTV" tvg-id="thuanviethd" tvg-logo=" https://static.wikia.nocookie.net/logos/images/f/fd/HTVC_Thu%E1%BA%A7n_Vi%E1%BB%87t_logo_b%E1%BA%A3n_2.png/revision/latest?cb=20241219123602&path-prefix=vi" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=190&time=${start}&offset=${duration}", Thuần Việt
+http://iptv.nhadai.org/stream/htvc-thuan-viet-hd
+
+
+#EXTINF:-1 group-title="HTV" tvg-id="htv9hd" tvg-logo=" http://iptv.nhadai.org/img/htvc-gia-dinh.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=190&time=${start}&offset=${duration}", Gia Đình
+http://iptv.nhadai.org/stream/htvc-gia-dinh
+
+#EXTINF:-1 group-title="HTV" tvg-id="htvthethaohd" tvg-logo=" http://iptv.nhadai.org/img/htvc-the-thao.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=18&time=${start}&offset=${duration}",HTV Thể thao
+http://iptv.nhadai.org/stream/htvc-the-thao
+
+#EXTINF:-1 group-title="HTV" tvg-id="hanoi1" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/36/HanoiTV1_logo_Tet_2014.png/revision/latest?cb=20240103002143&path-prefix=vi" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=400&time=${start}&offset=${duration}",Hà Nội 1
+http://iptv.nhadai.org/stream/hanoi1-hd
+
+#EXTINF:-1 tvg-id="cartoonnetwork" group-title="QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/53/Cartoon_Network_2004.png/revision/latest?cb=20230404102111&path-prefix=vi",Cartoon Network
+https://84.17.40.25/CARTOON_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="disneyjunior" group-title="QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/70/Disney_Junior.png/revision/latest?cb=20221214050509&path-prefix=vi",Disney Junior
+https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
+
+
+#EXTINF:-1  tvg-id="N/A" group-title="QUỐC TẾ" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/01/c028a650-226a-11ec-8746-bdb6cf7b14ca_webp_original.png",Love Nature
+https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/youtube/images/8/87/Real_Wild.jpg/revision/latest?cb=20211209072758",Real Wild
+https://lds-realwild-rakuten.amagi.tv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="axn" group-title="QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1b/AXN.png/revision/latest?cb=20221214051545&path-prefix=vi",AXN
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://175.107.244.52:4457/play/a07f/index.m3u8
+
+#EXTINF:-1 tvg-id="discovery" group-title="QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4e/Discovery_Channel.png/revision/latest?cb=20240103022304&path-prefix=vi",Discovery Channel
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://thevdm.xyz:25461/timmadden/timmad4765/31434
+
+#EXTINF:-1 tvg-id="animalplanet" group-title="QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4a/Animal_Planet_2018.png/revision/latest?cb=20240103022303&path-prefix=vi",Animal Planet
+http://thevdm.xyz:25461/timmadden/timmad4765/43991
+
+#EXTINF:-1 tvg-id="outdoor" group-title="QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/50/Outdoor_logo.png/revision/latest?cb=20231230015004&path-prefix=vi",Outdoor Channel
+http://thevdm.xyz:25461/timmadden/timmad4765/44122
+
+#EXTINF:-1 tvg-id="fx" group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg",FX East
+http://fl5.moveonjoy.com/FX/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="hbo" group-title="QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/HBO_%28Metallic%29.png/revision/latest?cb=20190715122142",HBO
+http://thevdm.xyz:25461/timmadden/timmad4765/52174
+
+#EXTINF:-1 tvg-id="hbosignature" group-title="QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/05/HBO_Signature.png/revision/latest?cb=20231212234827&path-prefix=vi",HBO Signature
+http://thevdm.xyz:25461/timmadden/timmad4765/34484
+
+#EXTINF:-1 tvg-id="hboxtreme" group-title="QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/HBO_Xtreme.svg/revision/latest?cb=20230215144641&path-prefix=es",HBO XTREME
+http://84.16.253.234:2082/S2S99999XTX5/Uf7r75t67/283
+
+#EXTINF:-1 tvg-id="paramountnetwork" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6b/Paramount_Global.png/revision/latest?cb=20220219132741&path-prefix=vi" group-title="QUỐC TẾ",Paramount Network
+http://thevdm.xyz:25461/timmadden/timmad4765/44134
+
+#EXTINF:-1 tvg-id="natwild" group-title="QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9f/Nat_Geo_Wild_HD.png/revision/latest?cb=20220208063837&path-prefix=vi",National Wild
+http://thevdm.xyz:25461/timmadden/timmad4765/44097
+
+
+#EXTINF:-1 tvg-id="actionmax" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/ActionMax_2016.svg/revision/latest?cb=20221123202505" group-title="QUỐC TẾ",ACTIONMAX
+http://thevdm.xyz:25461/timmadden/timmad4765/52161
+
+#EXTINF:-1 tvg-id="kuraj" tvg-logo="https://i.imgur.com/hZXBD9F.png" group-title="QUỐC TẾ",Курай-ТВ
+http://bsttv.bonus-tv.ru:80/cdn/kurai/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-id="tri-angela" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/8fKWpo3.png",Три Ангела
+
+
+#EXTINF:-1 tvg-id="ldpr-tv" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/0StosQm.png",ЛДПР ТВ HD
+
+
+#EXTINF:-1 tvg-id="soyuz" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/w3OewHc.png",Союз
+
+
+#EXTINF:-1 tvg-id="tv-brics" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/vLpm8tN.png",TV BRICS
+
+
+#EXTINF:-1 tvg-id="nano-tv" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/IgFmj3L.png",NANO
+http://nano.teleservice.su:8080/hls/nano.m3u8
+
+#EXTINF:-1 tvg-id="novy-mir" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/jiU4LHy.png",Новый мир
+http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="univer-tv" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/y1xT87R.png",Univer TV HD
+http://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Salyam.ru" tvg-logo="https://i.imgur.com/vPvULj7.png" group-title="QUỐC TẾ",Салям
+http://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1hd" tvg-logo="https://i.imgur.com/6TjLUuF.png" group-title="QUỐC TẾ",1HD Music Television
+https://sc.id-tv.kz/1hd.m3u8
+
+#EXTINF:-1 tvg-id="shanson-tv" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/NBWyJJQ.png",Шансон ТВ
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s43/index.m3u8
+
+#EXTINF:-1 tvg-id="shop24" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/qU9ohQu.png",Leomax 24 HD
+http://tvshops.bonus-tv.ru:80/cdn/shop24/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="shopping-live" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/1KzGSke.png",Shopping Live
+http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="yuvelirochka" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/VpgEPoM.png",Ювелирочка ТВ
+http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="amedia1" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/tHLmAvq.png",A1
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s45/04.m3u8
+#EXTINF:-1 tvg-id="amedia2" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/GwQgT6X.png",A2
+http://ott-cdn.ucom.am/s33/04.m3u8
+
+
+#EXTINF:-1 tvg-id="arsenaltv" tvg-logo="https://i.imgur.com/uhrfA7Y.png" group-title="QUỐC TẾ",Арсенал
+http://ott-cdn.ucom.am/s68/04.m3u8
+
+#EXTINF:-1 tvg-id="zoo-tv" tvg-logo="https://i.imgur.com/yy0YpWT.png" group-title="QUỐC TẾ",Зоо ТВ
+http://ott-cdn.ucom.am/s92/04.m3u8
+
+
+
+
+
